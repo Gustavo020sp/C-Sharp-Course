@@ -1,0 +1,8 @@
+C:\udemy\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.exe.config
+C:\udemy\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.exe
+C:\udemy\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.pdb
+C:\udemy\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csproj.AssemblyReference.cache
+C:\udemy\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csproj.SuggestedBindingRedirects.cache
+C:\udemy\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csproj.CoreCompileInputs.cache
+C:\udemy\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.exe
+C:\udemy\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.pdb
