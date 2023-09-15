@@ -1,0 +1,8 @@
+C:\udemy\Parametros_param\Parametros_param\bin\Debug\Parametros_param.exe.config
+C:\udemy\Parametros_param\Parametros_param\bin\Debug\Parametros_param.exe
+C:\udemy\Parametros_param\Parametros_param\bin\Debug\Parametros_param.pdb
+C:\udemy\Parametros_param\Parametros_param\obj\Debug\Parametros_param.csproj.AssemblyReference.cache
+C:\udemy\Parametros_param\Parametros_param\obj\Debug\Parametros_param.csproj.SuggestedBindingRedirects.cache
+C:\udemy\Parametros_param\Parametros_param\obj\Debug\Parametros_param.csproj.CoreCompileInputs.cache
+C:\udemy\Parametros_param\Parametros_param\obj\Debug\Parametros_param.exe
+C:\udemy\Parametros_param\Parametros_param\obj\Debug\Parametros_param.pdb
