@@ -1,0 +1,8 @@
+C:\udemy\Exemplo_For_Each\Exemplo_For_Each\bin\Debug\Exemplo_For_Each.exe.config
+C:\udemy\Exemplo_For_Each\Exemplo_For_Each\bin\Debug\Exemplo_For_Each.exe
+C:\udemy\Exemplo_For_Each\Exemplo_For_Each\bin\Debug\Exemplo_For_Each.pdb
+C:\udemy\Exemplo_For_Each\Exemplo_For_Each\obj\Debug\Exemplo_For_Each.csproj.AssemblyReference.cache
+C:\udemy\Exemplo_For_Each\Exemplo_For_Each\obj\Debug\Exemplo_For_Each.csproj.SuggestedBindingRedirects.cache
+C:\udemy\Exemplo_For_Each\Exemplo_For_Each\obj\Debug\Exemplo_For_Each.csproj.CoreCompileInputs.cache
+C:\udemy\Exemplo_For_Each\Exemplo_For_Each\obj\Debug\Exemplo_For_Each.exe
+C:\udemy\Exemplo_For_Each\Exemplo_For_Each\obj\Debug\Exemplo_For_Each.pdb
