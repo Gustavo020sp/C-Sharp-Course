@@ -1,0 +1,8 @@
+C:\udemy\TipoStruct\TipoStruct\bin\Debug\TipoStruct.exe.config
+C:\udemy\TipoStruct\TipoStruct\bin\Debug\TipoStruct.exe
+C:\udemy\TipoStruct\TipoStruct\bin\Debug\TipoStruct.pdb
+C:\udemy\TipoStruct\TipoStruct\obj\Debug\TipoStruct.csproj.AssemblyReference.cache
+C:\udemy\TipoStruct\TipoStruct\obj\Debug\TipoStruct.csproj.SuggestedBindingRedirects.cache
+C:\udemy\TipoStruct\TipoStruct\obj\Debug\TipoStruct.csproj.CoreCompileInputs.cache
+C:\udemy\TipoStruct\TipoStruct\obj\Debug\TipoStruct.exe
+C:\udemy\TipoStruct\TipoStruct\obj\Debug\TipoStruct.pdb
