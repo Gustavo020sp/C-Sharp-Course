@@ -1,0 +1,8 @@
+C:\udemy\Exercício_Lista\Exercício_Lista\bin\Debug\Exercício_Lista.exe.config
+C:\udemy\Exercício_Lista\Exercício_Lista\bin\Debug\Exercício_Lista.exe
+C:\udemy\Exercício_Lista\Exercício_Lista\bin\Debug\Exercício_Lista.pdb
+C:\udemy\Exercício_Lista\Exercício_Lista\obj\Debug\Exercício_Lista.csproj.AssemblyReference.cache
+C:\udemy\Exercício_Lista\Exercício_Lista\obj\Debug\Exercício_Lista.csproj.SuggestedBindingRedirects.cache
+C:\udemy\Exercício_Lista\Exercício_Lista\obj\Debug\Exercício_Lista.csproj.CoreCompileInputs.cache
+C:\udemy\Exercício_Lista\Exercício_Lista\obj\Debug\Exercício_Lista.exe
+C:\udemy\Exercício_Lista\Exercício_Lista\obj\Debug\Exercício_Lista.pdb
