@@ -1,0 +1,8 @@
+C:\udemy\Construtores\Construtores\bin\Debug\Construtores.exe.config
+C:\udemy\Construtores\Construtores\bin\Debug\Construtores.exe
+C:\udemy\Construtores\Construtores\bin\Debug\Construtores.pdb
+C:\udemy\Construtores\Construtores\obj\Debug\Construtores.csproj.AssemblyReference.cache
+C:\udemy\Construtores\Construtores\obj\Debug\Construtores.csproj.SuggestedBindingRedirects.cache
+C:\udemy\Construtores\Construtores\obj\Debug\Construtores.csproj.CoreCompileInputs.cache
+C:\udemy\Construtores\Construtores\obj\Debug\Construtores.exe
+C:\udemy\Construtores\Construtores\obj\Debug\Construtores.pdb
