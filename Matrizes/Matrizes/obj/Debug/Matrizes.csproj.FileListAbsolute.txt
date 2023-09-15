@@ -1,0 +1,16 @@
+C:\udemy\Matrizes\Matrizes\bin\Debug\Matrizes.exe.config
+C:\udemy\Matrizes\Matrizes\bin\Debug\Matrizes.exe
+C:\udemy\Matrizes\Matrizes\bin\Debug\Matrizes.pdb
+C:\udemy\Matrizes\Matrizes\obj\Debug\Matrizes.csproj.AssemblyReference.cache
+C:\udemy\Matrizes\Matrizes\obj\Debug\Matrizes.csproj.SuggestedBindingRedirects.cache
+C:\udemy\Matrizes\Matrizes\obj\Debug\Matrizes.csproj.CoreCompileInputs.cache
+C:\udemy\Matrizes\Matrizes\obj\Debug\Matrizes.exe
+C:\udemy\Matrizes\Matrizes\obj\Debug\Matrizes.pdb
+C:\Udemy - C#\Matrizes\Matrizes\bin\Debug\Matrizes.exe.config
+C:\Udemy - C#\Matrizes\Matrizes\bin\Debug\Matrizes.exe
+C:\Udemy - C#\Matrizes\Matrizes\bin\Debug\Matrizes.pdb
+C:\Udemy - C#\Matrizes\Matrizes\obj\Debug\Matrizes.csproj.AssemblyReference.cache
+C:\Udemy - C#\Matrizes\Matrizes\obj\Debug\Matrizes.csproj.SuggestedBindingRedirects.cache
+C:\Udemy - C#\Matrizes\Matrizes\obj\Debug\Matrizes.csproj.CoreCompileInputs.cache
+C:\Udemy - C#\Matrizes\Matrizes\obj\Debug\Matrizes.exe
+C:\Udemy - C#\Matrizes\Matrizes\obj\Debug\Matrizes.pdb
