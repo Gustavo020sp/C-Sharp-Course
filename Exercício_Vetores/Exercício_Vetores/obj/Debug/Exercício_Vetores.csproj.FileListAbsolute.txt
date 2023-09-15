@@ -1,0 +1,8 @@
+C:\udemy\Exercício_Vetores\Exercício_Vetores\bin\Debug\Exercício_Vetores.exe.config
+C:\udemy\Exercício_Vetores\Exercício_Vetores\bin\Debug\Exercício_Vetores.exe
+C:\udemy\Exercício_Vetores\Exercício_Vetores\bin\Debug\Exercício_Vetores.pdb
+C:\udemy\Exercício_Vetores\Exercício_Vetores\obj\Debug\Exercício_Vetores.csproj.AssemblyReference.cache
+C:\udemy\Exercício_Vetores\Exercício_Vetores\obj\Debug\Exercício_Vetores.csproj.SuggestedBindingRedirects.cache
+C:\udemy\Exercício_Vetores\Exercício_Vetores\obj\Debug\Exercício_Vetores.csproj.CoreCompileInputs.cache
+C:\udemy\Exercício_Vetores\Exercício_Vetores\obj\Debug\Exercício_Vetores.exe
+C:\udemy\Exercício_Vetores\Exercício_Vetores\obj\Debug\Exercício_Vetores.pdb
