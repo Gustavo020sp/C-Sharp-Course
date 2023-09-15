@@ -11,7 +11,7 @@ namespace Exemplo_For_Each
         static void Main(string[] args)
         {
 
-            string[] vect = new string[] { "Maria", "Bob", "Kaua" };
+            string[] vect = new string[] { "Maria", "Bob", "Kaua", "Marley" };
 
             foreach(var obj in vect) { Console.WriteLine(obj); }
 
