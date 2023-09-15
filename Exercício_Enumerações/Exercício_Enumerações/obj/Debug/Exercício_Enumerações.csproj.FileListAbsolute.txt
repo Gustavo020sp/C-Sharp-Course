@@ -1,0 +1,8 @@
+C:\Projects\Curso C#\C-Sharp-Course\Exercício_Enumerações\Exercício_Enumerações\bin\Debug\Exercício_Enumerações.exe.config
+C:\Projects\Curso C#\C-Sharp-Course\Exercício_Enumerações\Exercício_Enumerações\bin\Debug\Exercício_Enumerações.exe
+C:\Projects\Curso C#\C-Sharp-Course\Exercício_Enumerações\Exercício_Enumerações\bin\Debug\Exercício_Enumerações.pdb
+C:\Projects\Curso C#\C-Sharp-Course\Exercício_Enumerações\Exercício_Enumerações\obj\Debug\Exercício_Enumerações.csproj.AssemblyReference.cache
+C:\Projects\Curso C#\C-Sharp-Course\Exercício_Enumerações\Exercício_Enumerações\obj\Debug\Exercício_Enumerações.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Curso C#\C-Sharp-Course\Exercício_Enumerações\Exercício_Enumerações\obj\Debug\Exercício_Enumerações.csproj.CoreCompileInputs.cache
+C:\Projects\Curso C#\C-Sharp-Course\Exercício_Enumerações\Exercício_Enumerações\obj\Debug\Exercício_Enumerações.exe
+C:\Projects\Curso C#\C-Sharp-Course\Exercício_Enumerações\Exercício_Enumerações\obj\Debug\Exercício_Enumerações.pdb
