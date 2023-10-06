@@ -8,7 +8,7 @@ namespace Exercício_Enumerações
     {
         static void Main(string[] args)
         {
-            //Exemplo aula 1
+            //Exemplo aula 1 --
 
             //Order order1 = new Order {Id = 1080, Moment = DateTime.Now, Status = OrderStatus.PendingPayment};
 
