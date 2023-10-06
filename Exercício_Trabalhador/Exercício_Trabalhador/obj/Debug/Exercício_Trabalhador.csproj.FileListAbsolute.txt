@@ -1,0 +1,8 @@
+C:\Projects\Curso C#\C-Sharp-Course\Exercício_Trabalhador\Exercício_Trabalhador\bin\Debug\Exercício_Trabalhador.exe.config
+C:\Projects\Curso C#\C-Sharp-Course\Exercício_Trabalhador\Exercício_Trabalhador\bin\Debug\Exercício_Trabalhador.exe
+C:\Projects\Curso C#\C-Sharp-Course\Exercício_Trabalhador\Exercício_Trabalhador\bin\Debug\Exercício_Trabalhador.pdb
+C:\Projects\Curso C#\C-Sharp-Course\Exercício_Trabalhador\Exercício_Trabalhador\obj\Debug\Exercício_Trabalhador.csproj.AssemblyReference.cache
+C:\Projects\Curso C#\C-Sharp-Course\Exercício_Trabalhador\Exercício_Trabalhador\obj\Debug\Exercício_Trabalhador.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Curso C#\C-Sharp-Course\Exercício_Trabalhador\Exercício_Trabalhador\obj\Debug\Exercício_Trabalhador.csproj.CoreCompileInputs.cache
+C:\Projects\Curso C#\C-Sharp-Course\Exercício_Trabalhador\Exercício_Trabalhador\obj\Debug\Exercício_Trabalhador.exe
+C:\Projects\Curso C#\C-Sharp-Course\Exercício_Trabalhador\Exercício_Trabalhador\obj\Debug\Exercício_Trabalhador.pdb
