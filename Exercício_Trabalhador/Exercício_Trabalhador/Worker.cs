@@ -39,7 +39,15 @@ namespace Exercício_Trabalhador.Enumerators
 
         public double Income(int year, int month)
         {
-            return baseSalary;
+            double sum = baseSalary;
+            foreach(HourContract contract in Contracts)
+            {
+                if (contract.date.Year == year && contract.date.Month == month)
+                {
+                    sum += contract.totalValue();
+                }
+            }
+            return sum;
         }
     }
 }
