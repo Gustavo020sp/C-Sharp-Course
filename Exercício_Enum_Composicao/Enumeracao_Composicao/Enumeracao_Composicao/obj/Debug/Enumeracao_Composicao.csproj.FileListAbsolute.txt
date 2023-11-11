@@ -1,0 +1,8 @@
+C:\Projects\Curso C#\C-Sharp-Course\Exercício_Enum_Composicao\Enumeracao_Composicao\Enumeracao_Composicao\bin\Debug\Enumeracao_Composicao.exe.config
+C:\Projects\Curso C#\C-Sharp-Course\Exercício_Enum_Composicao\Enumeracao_Composicao\Enumeracao_Composicao\bin\Debug\Enumeracao_Composicao.exe
+C:\Projects\Curso C#\C-Sharp-Course\Exercício_Enum_Composicao\Enumeracao_Composicao\Enumeracao_Composicao\bin\Debug\Enumeracao_Composicao.pdb
+C:\Projects\Curso C#\C-Sharp-Course\Exercício_Enum_Composicao\Enumeracao_Composicao\Enumeracao_Composicao\obj\Debug\Enumeracao_Composicao.csproj.AssemblyReference.cache
+C:\Projects\Curso C#\C-Sharp-Course\Exercício_Enum_Composicao\Enumeracao_Composicao\Enumeracao_Composicao\obj\Debug\Enumeracao_Composicao.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Curso C#\C-Sharp-Course\Exercício_Enum_Composicao\Enumeracao_Composicao\Enumeracao_Composicao\obj\Debug\Enumeracao_Composicao.csproj.CoreCompileInputs.cache
+C:\Projects\Curso C#\C-Sharp-Course\Exercício_Enum_Composicao\Enumeracao_Composicao\Enumeracao_Composicao\obj\Debug\Enumeracao_Composicao.exe
+C:\Projects\Curso C#\C-Sharp-Course\Exercício_Enum_Composicao\Enumeracao_Composicao\Enumeracao_Composicao\obj\Debug\Enumeracao_Composicao.pdb
