@@ -1,0 +1,16 @@
+C:\Users\e5684672\OneDrive - FIS\Desktop\Enumeracao_Composicao\Enumeracao_Composicao\bin\Debug\Enumeracao_Composicao.exe.config
+C:\Users\e5684672\OneDrive - FIS\Desktop\Enumeracao_Composicao\Enumeracao_Composicao\bin\Debug\Enumeracao_Composicao.exe
+C:\Users\e5684672\OneDrive - FIS\Desktop\Enumeracao_Composicao\Enumeracao_Composicao\bin\Debug\Enumeracao_Composicao.pdb
+C:\Users\e5684672\OneDrive - FIS\Desktop\Enumeracao_Composicao\Enumeracao_Composicao\obj\Debug\Enumeracao_Composicao.csproj.AssemblyReference.cache
+C:\Users\e5684672\OneDrive - FIS\Desktop\Enumeracao_Composicao\Enumeracao_Composicao\obj\Debug\Enumeracao_Composicao.csproj.SuggestedBindingRedirects.cache
+C:\Users\e5684672\OneDrive - FIS\Desktop\Enumeracao_Composicao\Enumeracao_Composicao\obj\Debug\Enumeracao_Composicao.csproj.CoreCompileInputs.cache
+C:\Users\e5684672\OneDrive - FIS\Desktop\Enumeracao_Composicao\Enumeracao_Composicao\obj\Debug\Enumeracao_Composicao.exe
+C:\Users\e5684672\OneDrive - FIS\Desktop\Enumeracao_Composicao\Enumeracao_Composicao\obj\Debug\Enumeracao_Composicao.pdb
+C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Enumeracao_Composicao\Enumeracao_Composicao\bin\Debug\Enumeracao_Composicao.exe.config
+C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Enumeracao_Composicao\Enumeracao_Composicao\bin\Debug\Enumeracao_Composicao.exe
+C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Enumeracao_Composicao\Enumeracao_Composicao\bin\Debug\Enumeracao_Composicao.pdb
+C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Enumeracao_Composicao\Enumeracao_Composicao\obj\Debug\Enumeracao_Composicao.csproj.AssemblyReference.cache
+C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Enumeracao_Composicao\Enumeracao_Composicao\obj\Debug\Enumeracao_Composicao.csproj.SuggestedBindingRedirects.cache
+C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Enumeracao_Composicao\Enumeracao_Composicao\obj\Debug\Enumeracao_Composicao.csproj.CoreCompileInputs.cache
+C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Enumeracao_Composicao\Enumeracao_Composicao\obj\Debug\Enumeracao_Composicao.exe
+C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Enumeracao_Composicao\Enumeracao_Composicao\obj\Debug\Enumeracao_Composicao.pdb
