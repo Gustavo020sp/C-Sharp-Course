@@ -1,0 +1,8 @@
+C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Metodos_Abstratos\Metodos_Abstratos\obj\Debug\Metodos_Abstratos.csproj.AssemblyReference.cache
+C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Metodos_Abstratos\Metodos_Abstratos\obj\Debug\Metodos_Abstratos.csproj.SuggestedBindingRedirects.cache
+C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Metodos_Abstratos\Metodos_Abstratos\obj\Debug\Metodos_Abstratos.csproj.CoreCompileInputs.cache
+C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Metodos_Abstratos\Metodos_Abstratos\bin\Debug\Metodos_Abstratos.exe.config
+C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Metodos_Abstratos\Metodos_Abstratos\bin\Debug\Metodos_Abstratos.exe
+C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Metodos_Abstratos\Metodos_Abstratos\bin\Debug\Metodos_Abstratos.pdb
+C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Metodos_Abstratos\Metodos_Abstratos\obj\Debug\Metodos_Abstratos.exe
+C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Metodos_Abstratos\Metodos_Abstratos\obj\Debug\Metodos_Abstratos.pdb
