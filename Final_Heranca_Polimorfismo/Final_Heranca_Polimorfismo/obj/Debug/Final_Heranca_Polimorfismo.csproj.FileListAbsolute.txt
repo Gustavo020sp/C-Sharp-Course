@@ -1,0 +1,8 @@
+C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Final_Heranca_Polimorfismo\Final_Heranca_Polimorfismo\bin\Debug\Final_Heranca_Polimorfismo.exe.config
+C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Final_Heranca_Polimorfismo\Final_Heranca_Polimorfismo\bin\Debug\Final_Heranca_Polimorfismo.exe
+C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Final_Heranca_Polimorfismo\Final_Heranca_Polimorfismo\bin\Debug\Final_Heranca_Polimorfismo.pdb
+C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Final_Heranca_Polimorfismo\Final_Heranca_Polimorfismo\obj\Debug\Final_Heranca_Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Final_Heranca_Polimorfismo\Final_Heranca_Polimorfismo\obj\Debug\Final_Heranca_Polimorfismo.csproj.SuggestedBindingRedirects.cache
+C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Final_Heranca_Polimorfismo\Final_Heranca_Polimorfismo\obj\Debug\Final_Heranca_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Final_Heranca_Polimorfismo\Final_Heranca_Polimorfismo\obj\Debug\Final_Heranca_Polimorfismo.exe
+C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Final_Heranca_Polimorfismo\Final_Heranca_Polimorfismo\obj\Debug\Final_Heranca_Polimorfismo.pdb
