@@ -6,3 +6,11 @@ C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Trabalhando_Com_Ar
 C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Trabalhando_Com_Arquivos\Trabalhando_Com_Arquivos\obj\Debug\Trabalhando_Com_Arquivos.csproj.CoreCompileInputs.cache
 C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Trabalhando_Com_Arquivos\Trabalhando_Com_Arquivos\obj\Debug\Trabalhando_Com_Arquivos.exe
 C:\Users\e5684672\OneDrive - FIS\Desktop\Para subir no github\Trabalhando_Com_Arquivos\Trabalhando_Com_Arquivos\obj\Debug\Trabalhando_Com_Arquivos.pdb
+C:\Github\C-Sharp-Course\Trabalhando_Com_Arquivos\Trabalhando_Com_Arquivos\bin\Debug\Trabalhando_Com_Arquivos.exe.config
+C:\Github\C-Sharp-Course\Trabalhando_Com_Arquivos\Trabalhando_Com_Arquivos\bin\Debug\Trabalhando_Com_Arquivos.exe
+C:\Github\C-Sharp-Course\Trabalhando_Com_Arquivos\Trabalhando_Com_Arquivos\bin\Debug\Trabalhando_Com_Arquivos.pdb
+C:\Github\C-Sharp-Course\Trabalhando_Com_Arquivos\Trabalhando_Com_Arquivos\obj\Debug\Trabalhando_Com_Arquivos.csproj.AssemblyReference.cache
+C:\Github\C-Sharp-Course\Trabalhando_Com_Arquivos\Trabalhando_Com_Arquivos\obj\Debug\Trabalhando_Com_Arquivos.csproj.SuggestedBindingRedirects.cache
+C:\Github\C-Sharp-Course\Trabalhando_Com_Arquivos\Trabalhando_Com_Arquivos\obj\Debug\Trabalhando_Com_Arquivos.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp-Course\Trabalhando_Com_Arquivos\Trabalhando_Com_Arquivos\obj\Debug\Trabalhando_Com_Arquivos.exe
+C:\Github\C-Sharp-Course\Trabalhando_Com_Arquivos\Trabalhando_Com_Arquivos\obj\Debug\Trabalhando_Com_Arquivos.pdb
