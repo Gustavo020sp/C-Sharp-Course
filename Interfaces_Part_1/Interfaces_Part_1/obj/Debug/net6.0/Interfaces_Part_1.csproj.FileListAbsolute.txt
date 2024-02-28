@@ -1,0 +1,15 @@
+C:\Github\C-Sharp-Course\Interfaces_Part_1\Interfaces_Part_1\bin\Debug\net6.0\Interfaces_Part_1.exe
+C:\Github\C-Sharp-Course\Interfaces_Part_1\Interfaces_Part_1\bin\Debug\net6.0\Interfaces_Part_1.deps.json
+C:\Github\C-Sharp-Course\Interfaces_Part_1\Interfaces_Part_1\bin\Debug\net6.0\Interfaces_Part_1.runtimeconfig.json
+C:\Github\C-Sharp-Course\Interfaces_Part_1\Interfaces_Part_1\bin\Debug\net6.0\Interfaces_Part_1.dll
+C:\Github\C-Sharp-Course\Interfaces_Part_1\Interfaces_Part_1\bin\Debug\net6.0\Interfaces_Part_1.pdb
+C:\Github\C-Sharp-Course\Interfaces_Part_1\Interfaces_Part_1\obj\Debug\net6.0\Interfaces_Part_1.csproj.AssemblyReference.cache
+C:\Github\C-Sharp-Course\Interfaces_Part_1\Interfaces_Part_1\obj\Debug\net6.0\Interfaces_Part_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\C-Sharp-Course\Interfaces_Part_1\Interfaces_Part_1\obj\Debug\net6.0\Interfaces_Part_1.AssemblyInfoInputs.cache
+C:\Github\C-Sharp-Course\Interfaces_Part_1\Interfaces_Part_1\obj\Debug\net6.0\Interfaces_Part_1.AssemblyInfo.cs
+C:\Github\C-Sharp-Course\Interfaces_Part_1\Interfaces_Part_1\obj\Debug\net6.0\Interfaces_Part_1.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp-Course\Interfaces_Part_1\Interfaces_Part_1\obj\Debug\net6.0\Interfaces_Part_1.dll
+C:\Github\C-Sharp-Course\Interfaces_Part_1\Interfaces_Part_1\obj\Debug\net6.0\refint\Interfaces_Part_1.dll
+C:\Github\C-Sharp-Course\Interfaces_Part_1\Interfaces_Part_1\obj\Debug\net6.0\Interfaces_Part_1.pdb
+C:\Github\C-Sharp-Course\Interfaces_Part_1\Interfaces_Part_1\obj\Debug\net6.0\Interfaces_Part_1.genruntimeconfig.cache
+C:\Github\C-Sharp-Course\Interfaces_Part_1\Interfaces_Part_1\obj\Debug\net6.0\ref\Interfaces_Part_1.dll
