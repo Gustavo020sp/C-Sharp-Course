@@ -29,7 +29,7 @@ namespace Interfaces_Part_1
 
             CarRental carRental = new CarRental(start, end, new Vehicle(vehicle));
 
-            RentalService rentalService = new RentalService(priceHour, priceDay);
+            RentalService rentalService = new RentalService(priceHour, priceDay, new BrazilTaxService());
 
             rentalService.ProcessInvoice(carRental);
 
