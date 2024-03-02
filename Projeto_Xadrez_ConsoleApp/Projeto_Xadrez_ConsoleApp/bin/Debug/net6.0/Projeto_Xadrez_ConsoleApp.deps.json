@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Projeto_Xadrez_ConsoleApp/1.0.0": {
+        "runtime": {
+          "Projeto_Xadrez_ConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto_Xadrez_ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

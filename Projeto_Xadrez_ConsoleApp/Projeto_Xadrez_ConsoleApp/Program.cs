@@ -1,10 +1,16 @@
-﻿namespace Projeto_Xadrez_ConsoleApp
+﻿using Projeto_Xadrez_ConsoleApp.Tabuleiro;
+
+namespace Projeto_Xadrez_ConsoleApp
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Posicao p;
+
+            p = new Posicao(3, 4);
+
+            Console.WriteLine(p.ToString());
         }
     }
 }
