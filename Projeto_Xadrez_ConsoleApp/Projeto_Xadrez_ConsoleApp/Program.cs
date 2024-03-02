@@ -1,16 +1,12 @@
-﻿using Projeto_Xadrez_ConsoleApp.Tabuleiro;
+﻿using Projeto_Xadrez_ConsoleApp.tabuleiro;
 
-namespace Projeto_Xadrez_ConsoleApp
+namespace Projeto_Xadrez_ConsoleApp.tabuleiro
 {
     public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Posicao p;
-
-            p = new Posicao(3, 4);
-
-            Console.WriteLine(p.ToString());
+            Tabuleiro tab = new Tabuleiro(8, 8);
         }
     }
 }
