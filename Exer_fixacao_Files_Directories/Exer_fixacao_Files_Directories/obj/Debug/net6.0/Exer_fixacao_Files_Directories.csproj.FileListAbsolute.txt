@@ -1,0 +1,15 @@
+C:\Github\C-Sharp-Course\Exer_fixacao_Files_Directories\Exer_fixacao_Files_Directories\bin\Debug\net6.0\Exer_fixacao_Files_Directories.exe
+C:\Github\C-Sharp-Course\Exer_fixacao_Files_Directories\Exer_fixacao_Files_Directories\bin\Debug\net6.0\Exer_fixacao_Files_Directories.deps.json
+C:\Github\C-Sharp-Course\Exer_fixacao_Files_Directories\Exer_fixacao_Files_Directories\bin\Debug\net6.0\Exer_fixacao_Files_Directories.runtimeconfig.json
+C:\Github\C-Sharp-Course\Exer_fixacao_Files_Directories\Exer_fixacao_Files_Directories\bin\Debug\net6.0\Exer_fixacao_Files_Directories.dll
+C:\Github\C-Sharp-Course\Exer_fixacao_Files_Directories\Exer_fixacao_Files_Directories\bin\Debug\net6.0\Exer_fixacao_Files_Directories.pdb
+C:\Github\C-Sharp-Course\Exer_fixacao_Files_Directories\Exer_fixacao_Files_Directories\obj\Debug\net6.0\Exer_fixacao_Files_Directories.csproj.AssemblyReference.cache
+C:\Github\C-Sharp-Course\Exer_fixacao_Files_Directories\Exer_fixacao_Files_Directories\obj\Debug\net6.0\Exer_fixacao_Files_Directories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\C-Sharp-Course\Exer_fixacao_Files_Directories\Exer_fixacao_Files_Directories\obj\Debug\net6.0\Exer_fixacao_Files_Directories.AssemblyInfoInputs.cache
+C:\Github\C-Sharp-Course\Exer_fixacao_Files_Directories\Exer_fixacao_Files_Directories\obj\Debug\net6.0\Exer_fixacao_Files_Directories.AssemblyInfo.cs
+C:\Github\C-Sharp-Course\Exer_fixacao_Files_Directories\Exer_fixacao_Files_Directories\obj\Debug\net6.0\Exer_fixacao_Files_Directories.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp-Course\Exer_fixacao_Files_Directories\Exer_fixacao_Files_Directories\obj\Debug\net6.0\Exer_fixacao_Files_Directories.dll
+C:\Github\C-Sharp-Course\Exer_fixacao_Files_Directories\Exer_fixacao_Files_Directories\obj\Debug\net6.0\refint\Exer_fixacao_Files_Directories.dll
+C:\Github\C-Sharp-Course\Exer_fixacao_Files_Directories\Exer_fixacao_Files_Directories\obj\Debug\net6.0\Exer_fixacao_Files_Directories.pdb
+C:\Github\C-Sharp-Course\Exer_fixacao_Files_Directories\Exer_fixacao_Files_Directories\obj\Debug\net6.0\Exer_fixacao_Files_Directories.genruntimeconfig.cache
+C:\Github\C-Sharp-Course\Exer_fixacao_Files_Directories\Exer_fixacao_Files_Directories\obj\Debug\net6.0\ref\Exer_fixacao_Files_Directories.dll
