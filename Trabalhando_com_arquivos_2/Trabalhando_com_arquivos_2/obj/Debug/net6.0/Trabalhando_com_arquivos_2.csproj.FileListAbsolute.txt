@@ -1,0 +1,15 @@
+C:\Github\C-Sharp-Course\Trabalhando_com_arquivos_2\Trabalhando_com_arquivos_2\bin\Debug\net6.0\Trabalhando_com_arquivos_2.exe
+C:\Github\C-Sharp-Course\Trabalhando_com_arquivos_2\Trabalhando_com_arquivos_2\bin\Debug\net6.0\Trabalhando_com_arquivos_2.deps.json
+C:\Github\C-Sharp-Course\Trabalhando_com_arquivos_2\Trabalhando_com_arquivos_2\bin\Debug\net6.0\Trabalhando_com_arquivos_2.runtimeconfig.json
+C:\Github\C-Sharp-Course\Trabalhando_com_arquivos_2\Trabalhando_com_arquivos_2\bin\Debug\net6.0\Trabalhando_com_arquivos_2.dll
+C:\Github\C-Sharp-Course\Trabalhando_com_arquivos_2\Trabalhando_com_arquivos_2\bin\Debug\net6.0\Trabalhando_com_arquivos_2.pdb
+C:\Github\C-Sharp-Course\Trabalhando_com_arquivos_2\Trabalhando_com_arquivos_2\obj\Debug\net6.0\Trabalhando_com_arquivos_2.csproj.AssemblyReference.cache
+C:\Github\C-Sharp-Course\Trabalhando_com_arquivos_2\Trabalhando_com_arquivos_2\obj\Debug\net6.0\Trabalhando_com_arquivos_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\C-Sharp-Course\Trabalhando_com_arquivos_2\Trabalhando_com_arquivos_2\obj\Debug\net6.0\Trabalhando_com_arquivos_2.AssemblyInfoInputs.cache
+C:\Github\C-Sharp-Course\Trabalhando_com_arquivos_2\Trabalhando_com_arquivos_2\obj\Debug\net6.0\Trabalhando_com_arquivos_2.AssemblyInfo.cs
+C:\Github\C-Sharp-Course\Trabalhando_com_arquivos_2\Trabalhando_com_arquivos_2\obj\Debug\net6.0\Trabalhando_com_arquivos_2.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp-Course\Trabalhando_com_arquivos_2\Trabalhando_com_arquivos_2\obj\Debug\net6.0\Trabalhando_com_arquivos_2.dll
+C:\Github\C-Sharp-Course\Trabalhando_com_arquivos_2\Trabalhando_com_arquivos_2\obj\Debug\net6.0\refint\Trabalhando_com_arquivos_2.dll
+C:\Github\C-Sharp-Course\Trabalhando_com_arquivos_2\Trabalhando_com_arquivos_2\obj\Debug\net6.0\Trabalhando_com_arquivos_2.pdb
+C:\Github\C-Sharp-Course\Trabalhando_com_arquivos_2\Trabalhando_com_arquivos_2\obj\Debug\net6.0\Trabalhando_com_arquivos_2.genruntimeconfig.cache
+C:\Github\C-Sharp-Course\Trabalhando_com_arquivos_2\Trabalhando_com_arquivos_2\obj\Debug\net6.0\ref\Trabalhando_com_arquivos_2.dll
