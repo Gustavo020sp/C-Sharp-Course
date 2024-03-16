@@ -1,0 +1,15 @@
+C:\Github\C-Sharp-Course\Teste14032024\Teste14032024\bin\Debug\net6.0\Teste14032024.exe
+C:\Github\C-Sharp-Course\Teste14032024\Teste14032024\bin\Debug\net6.0\Teste14032024.deps.json
+C:\Github\C-Sharp-Course\Teste14032024\Teste14032024\bin\Debug\net6.0\Teste14032024.runtimeconfig.json
+C:\Github\C-Sharp-Course\Teste14032024\Teste14032024\bin\Debug\net6.0\Teste14032024.dll
+C:\Github\C-Sharp-Course\Teste14032024\Teste14032024\bin\Debug\net6.0\Teste14032024.pdb
+C:\Github\C-Sharp-Course\Teste14032024\Teste14032024\obj\Debug\net6.0\Teste14032024.csproj.AssemblyReference.cache
+C:\Github\C-Sharp-Course\Teste14032024\Teste14032024\obj\Debug\net6.0\Teste14032024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\C-Sharp-Course\Teste14032024\Teste14032024\obj\Debug\net6.0\Teste14032024.AssemblyInfoInputs.cache
+C:\Github\C-Sharp-Course\Teste14032024\Teste14032024\obj\Debug\net6.0\Teste14032024.AssemblyInfo.cs
+C:\Github\C-Sharp-Course\Teste14032024\Teste14032024\obj\Debug\net6.0\Teste14032024.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp-Course\Teste14032024\Teste14032024\obj\Debug\net6.0\Teste14032024.dll
+C:\Github\C-Sharp-Course\Teste14032024\Teste14032024\obj\Debug\net6.0\refint\Teste14032024.dll
+C:\Github\C-Sharp-Course\Teste14032024\Teste14032024\obj\Debug\net6.0\Teste14032024.pdb
+C:\Github\C-Sharp-Course\Teste14032024\Teste14032024\obj\Debug\net6.0\Teste14032024.genruntimeconfig.cache
+C:\Github\C-Sharp-Course\Teste14032024\Teste14032024\obj\Debug\net6.0\ref\Teste14032024.dll
