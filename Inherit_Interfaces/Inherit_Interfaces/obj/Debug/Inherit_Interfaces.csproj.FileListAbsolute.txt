@@ -1,0 +1,7 @@
+D:\Projects\C-Sharp-Course\Inherit_Interfaces\Inherit_Interfaces\bin\Debug\Inherit_Interfaces.exe.config
+D:\Projects\C-Sharp-Course\Inherit_Interfaces\Inherit_Interfaces\bin\Debug\Inherit_Interfaces.exe
+D:\Projects\C-Sharp-Course\Inherit_Interfaces\Inherit_Interfaces\bin\Debug\Inherit_Interfaces.pdb
+D:\Projects\C-Sharp-Course\Inherit_Interfaces\Inherit_Interfaces\obj\Debug\Inherit_Interfaces.csproj.AssemblyReference.cache
+D:\Projects\C-Sharp-Course\Inherit_Interfaces\Inherit_Interfaces\obj\Debug\Inherit_Interfaces.csproj.CoreCompileInputs.cache
+D:\Projects\C-Sharp-Course\Inherit_Interfaces\Inherit_Interfaces\obj\Debug\Inherit_Interfaces.exe
+D:\Projects\C-Sharp-Course\Inherit_Interfaces\Inherit_Interfaces\obj\Debug\Inherit_Interfaces.pdb
