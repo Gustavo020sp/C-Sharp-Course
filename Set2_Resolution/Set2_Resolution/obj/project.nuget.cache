@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gNy2/zRfda40jOHzX3icr2xYQmAZHpB73tZ+mDrS4SxB+/KO5IyFIivpWp90hUo8GRM36rJ3q8tzd7dV8YNJ8Q==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\C-Sharp-Course\\Set2_Resolution\\Set2_Resolution\\Set2_Resolution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gusta\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
