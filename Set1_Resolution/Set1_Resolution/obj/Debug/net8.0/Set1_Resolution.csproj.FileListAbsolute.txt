@@ -1,0 +1,15 @@
+D:\Projects\C-Sharp-Course\Set1_Resolution\Set1_Resolution\obj\Debug\net8.0\Set1_Resolution.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C-Sharp-Course\Set1_Resolution\Set1_Resolution\obj\Debug\net8.0\Set1_Resolution.AssemblyInfoInputs.cache
+D:\Projects\C-Sharp-Course\Set1_Resolution\Set1_Resolution\obj\Debug\net8.0\Set1_Resolution.AssemblyInfo.cs
+D:\Projects\C-Sharp-Course\Set1_Resolution\Set1_Resolution\obj\Debug\net8.0\Set1_Resolution.csproj.CoreCompileInputs.cache
+D:\Projects\C-Sharp-Course\Set1_Resolution\Set1_Resolution\obj\Debug\net8.0\Set1_Resolution.sourcelink.json
+D:\Projects\C-Sharp-Course\Set1_Resolution\Set1_Resolution\bin\Debug\net8.0\Set1_Resolution.exe
+D:\Projects\C-Sharp-Course\Set1_Resolution\Set1_Resolution\bin\Debug\net8.0\Set1_Resolution.deps.json
+D:\Projects\C-Sharp-Course\Set1_Resolution\Set1_Resolution\bin\Debug\net8.0\Set1_Resolution.runtimeconfig.json
+D:\Projects\C-Sharp-Course\Set1_Resolution\Set1_Resolution\bin\Debug\net8.0\Set1_Resolution.dll
+D:\Projects\C-Sharp-Course\Set1_Resolution\Set1_Resolution\bin\Debug\net8.0\Set1_Resolution.pdb
+D:\Projects\C-Sharp-Course\Set1_Resolution\Set1_Resolution\obj\Debug\net8.0\Set1_Resolution.dll
+D:\Projects\C-Sharp-Course\Set1_Resolution\Set1_Resolution\obj\Debug\net8.0\refint\Set1_Resolution.dll
+D:\Projects\C-Sharp-Course\Set1_Resolution\Set1_Resolution\obj\Debug\net8.0\Set1_Resolution.pdb
+D:\Projects\C-Sharp-Course\Set1_Resolution\Set1_Resolution\obj\Debug\net8.0\Set1_Resolution.genruntimeconfig.cache
+D:\Projects\C-Sharp-Course\Set1_Resolution\Set1_Resolution\obj\Debug\net8.0\ref\Set1_Resolution.dll
