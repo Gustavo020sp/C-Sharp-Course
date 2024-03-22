@@ -1,0 +1,15 @@
+D:\Projects\C-Sharp-Course\OnlyTest_GetHashCode\OnlyTest_GetHashCode\obj\Debug\net8.0\OnlyTest_GetHashCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C-Sharp-Course\OnlyTest_GetHashCode\OnlyTest_GetHashCode\obj\Debug\net8.0\OnlyTest_GetHashCode.AssemblyInfoInputs.cache
+D:\Projects\C-Sharp-Course\OnlyTest_GetHashCode\OnlyTest_GetHashCode\obj\Debug\net8.0\OnlyTest_GetHashCode.AssemblyInfo.cs
+D:\Projects\C-Sharp-Course\OnlyTest_GetHashCode\OnlyTest_GetHashCode\obj\Debug\net8.0\OnlyTest_GetHashCode.csproj.CoreCompileInputs.cache
+D:\Projects\C-Sharp-Course\OnlyTest_GetHashCode\OnlyTest_GetHashCode\obj\Debug\net8.0\OnlyTest_GetHashCode.sourcelink.json
+D:\Projects\C-Sharp-Course\OnlyTest_GetHashCode\OnlyTest_GetHashCode\bin\Debug\net8.0\OnlyTest_GetHashCode.exe
+D:\Projects\C-Sharp-Course\OnlyTest_GetHashCode\OnlyTest_GetHashCode\bin\Debug\net8.0\OnlyTest_GetHashCode.deps.json
+D:\Projects\C-Sharp-Course\OnlyTest_GetHashCode\OnlyTest_GetHashCode\bin\Debug\net8.0\OnlyTest_GetHashCode.runtimeconfig.json
+D:\Projects\C-Sharp-Course\OnlyTest_GetHashCode\OnlyTest_GetHashCode\bin\Debug\net8.0\OnlyTest_GetHashCode.dll
+D:\Projects\C-Sharp-Course\OnlyTest_GetHashCode\OnlyTest_GetHashCode\bin\Debug\net8.0\OnlyTest_GetHashCode.pdb
+D:\Projects\C-Sharp-Course\OnlyTest_GetHashCode\OnlyTest_GetHashCode\obj\Debug\net8.0\OnlyTest_GetHashCode.dll
+D:\Projects\C-Sharp-Course\OnlyTest_GetHashCode\OnlyTest_GetHashCode\obj\Debug\net8.0\refint\OnlyTest_GetHashCode.dll
+D:\Projects\C-Sharp-Course\OnlyTest_GetHashCode\OnlyTest_GetHashCode\obj\Debug\net8.0\OnlyTest_GetHashCode.pdb
+D:\Projects\C-Sharp-Course\OnlyTest_GetHashCode\OnlyTest_GetHashCode\obj\Debug\net8.0\OnlyTest_GetHashCode.genruntimeconfig.cache
+D:\Projects\C-Sharp-Course\OnlyTest_GetHashCode\OnlyTest_GetHashCode\obj\Debug\net8.0\ref\OnlyTest_GetHashCode.dll
