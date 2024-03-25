@@ -38,10 +38,10 @@ namespace Expressoes_Lambda2
             }
 
 
-            //falta arrumar código abaixo para imprimir certo
+            //Filtrar apenas os nomesque contem letra M e somar o salário dos respectivos
             Console.WriteLine("Sum of salary of people whose name starts with 'M': ");
 
-            var sum = listEmployee.Select(p => p.Salary).DefaultIfEmpty(0.0).Sum();
+            var sum = listEmployee.Where(n => n.Name.Contains('M')).Select(s => s.Salary).Sum();
 
             Console.WriteLine(sum.ToString());
 
