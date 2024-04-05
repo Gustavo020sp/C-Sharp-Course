@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Globalization;
 
 namespace Calculator
 {
@@ -10,7 +11,7 @@ namespace Calculator
     {
         public string text { get; set; }
         public double sum, num1, num2;
-        public string finalresult;
+        public double finalresult;
 
         public Calculate(string text)
         {
@@ -23,11 +24,11 @@ namespace Calculator
             if (text.Contains('+'))
             {
                 string firstnumber = text.Substring(text.LastIndexOf('+'));
-                string secondnumber = text.Substring(0, text.IndexOf('+'));
-                num2 = Convert.ToDouble(firstnumber.Substring(1));
+                string secondnumber = text.Substring(0, text.IndexOf('+'));                
+                num2 = Convert.ToDouble(firstnumber);
                 num1 = Convert.ToDouble(secondnumber);
-                sum = num1 + num2;
-                finalresult = Convert.ToString(sum);
+                sum = Convert.ToDouble(secondnumber) + Convert.ToDouble(firstnumber); 
+                finalresult = Convert.ToDouble(sum);
                 return;
             }
             if (text.Contains('x'))
@@ -37,7 +38,7 @@ namespace Calculator
                 num2 = Convert.ToDouble(firstnumber.Substring(1));
                 num1 = Convert.ToDouble(secondnumber);
                 sum = num1 * num2;
-                finalresult = Convert.ToString(sum);
+                finalresult = Convert.ToDouble(sum);
                 return;
             }
             if (text.Contains('-'))
@@ -47,7 +48,7 @@ namespace Calculator
                 num2 = Convert.ToDouble(firstnumber.Substring(1));
                 num1 = Convert.ToDouble(secondnumber);
                 sum = num1 - num2;
-                finalresult = Convert.ToString(sum);
+                finalresult = Convert.ToDouble(sum);
                 return;
             }
             if (text.Contains('/'))
@@ -57,7 +58,7 @@ namespace Calculator
                 num2 = Convert.ToDouble(firstnumber.Substring(1));
                 num1 = Convert.ToDouble(secondnumber);
                 sum = num1 / num2;
-                finalresult = Convert.ToString(sum);
+                finalresult = Convert.ToDouble(sum);
                 return;
             }
         }

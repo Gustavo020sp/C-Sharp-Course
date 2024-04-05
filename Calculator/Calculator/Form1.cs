@@ -42,7 +42,7 @@ namespace Calculator
 
         private void button12_Click(object sender, EventArgs e)
         {
-            text = textBox1.Text = textBox1.Text + ".";
+            text = textBox1.Text = textBox1.Text + ",";
         }
 
         private void button15_Click(object sender, EventArgs e)
