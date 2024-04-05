@@ -17,7 +17,6 @@ namespace Calculator
         {
             this.text = text;
         }   
-
         public void DoCalculation(string text)
         {
 
