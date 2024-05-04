@@ -9,14 +9,14 @@ namespace Interfaces_Part_1
     {
         static void Main(string[] args)
         {
-            string vehicle;
+            string model;
             DateTime start, end;
             double priceHour, priceDay;
 
             Console.WriteLine("Enter rental data");
 
             Console.Write("Car model: ");
-            vehicle = Console.ReadLine();
+            model = Console.ReadLine();
             Console.Write("Pickup (dd/MM/yyyy hh:mm): ");
             start = DateTime.ParseExact(Console.ReadLine(), "dd/MM/yyyy HH:mm", CultureInfo.InvariantCulture);
             Console.Write("Return (dd/MM/yyyy hh:mm): ");
@@ -27,7 +27,7 @@ namespace Interfaces_Part_1
             Console.Write("Enter price per day: ");
             priceDay = Convert.ToDouble(Console.ReadLine());
 
-            CarRental carRental = new CarRental(start, end, new Vehicle(vehicle));
+            CarRental carRental = new CarRental(start, end, new Vehicle(model));
 
             RentalService rentalService = new RentalService(priceHour, priceDay, new BrazilTaxService());
 

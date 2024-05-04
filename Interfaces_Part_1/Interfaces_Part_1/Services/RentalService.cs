@@ -7,6 +7,9 @@ namespace Interfaces_Part_1.Services
         public double PricePerDay { get; private set; }
 
         //não é a nmelhor forma abaixo
+        //private BrazilTaxService _braziltaxservice = new BrazilTaxService();
+
+        //merlhor forma -> instanciar a interface
         private ITaxService Taxservice;
         public RentalService(double pricePerHour, double pricePerDay, ITaxService Taxservice)
         {
@@ -17,6 +20,7 @@ namespace Interfaces_Part_1.Services
 
         public void ProcessInvoice(CarRental carRental)
         {
+            //aqui calcula a duração do aluguel
             TimeSpan duration = carRental.end.Subtract(carRental.start);
             double basicPayment = 0;
             if (duration.TotalHours <= 12.0)
