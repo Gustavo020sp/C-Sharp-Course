@@ -32,8 +32,10 @@ namespace Interfaces_Part_1.Services
                 basicPayment = PricePerDay * Math.Ceiling(duration.TotalDays);
             }
 
+            //calcula o valor do imposto
             double tax = Taxservice.Tax(basicPayment);
 
+            //instanciar o invoice e associar com carRental
             carRental.invoice = new Invoice(basicPayment, tax);
         }
     }

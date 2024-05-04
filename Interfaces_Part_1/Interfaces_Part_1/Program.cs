@@ -13,6 +13,9 @@ namespace Interfaces_Part_1
             DateTime start, end;
             double priceHour, priceDay;
 
+            Console.Write("Enter Country(BR/USA): ");
+            string country = Console.ReadLine();
+
             Console.WriteLine("Enter rental data");
 
             Console.Write("Car model: ");
@@ -29,9 +32,16 @@ namespace Interfaces_Part_1
 
             CarRental carRental = new CarRental(start, end, new Vehicle(model));
 
-            RentalService rentalService = new RentalService(priceHour, priceDay, new BrazilTaxService());
-
-            rentalService.ProcessInvoice(carRental);
+            if (country == "BR")
+            {
+                RentalService rentalService = new RentalService(priceHour, priceDay, new BrazilTaxService());
+                rentalService.ProcessInvoice(carRental);
+            }
+            else
+            {
+                RentalService rentalService = new RentalService(priceHour, priceDay, new UsaTaxService());
+                rentalService.ProcessInvoice(carRental);
+            }
 
             Console.WriteLine(carRental.invoice);
 
