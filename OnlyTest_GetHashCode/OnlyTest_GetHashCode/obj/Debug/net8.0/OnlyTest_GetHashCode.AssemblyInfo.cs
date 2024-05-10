@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnlyTest_GetHashCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e53a706b7063005be7f3adcf261b7e13ddd13f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3529fce52c1bd5d2e6db34e8ff8991fc93b8365")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnlyTest_GetHashCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnlyTest_GetHashCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

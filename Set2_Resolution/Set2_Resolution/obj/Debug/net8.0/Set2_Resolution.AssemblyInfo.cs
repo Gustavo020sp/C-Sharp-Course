@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Set2_Resolution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17d2a18fa8dfaeb65c2300819b589ddc40af5fd5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3529fce52c1bd5d2e6db34e8ff8991fc93b8365")]
 [assembly: System.Reflection.AssemblyProductAttribute("Set2_Resolution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Set2_Resolution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

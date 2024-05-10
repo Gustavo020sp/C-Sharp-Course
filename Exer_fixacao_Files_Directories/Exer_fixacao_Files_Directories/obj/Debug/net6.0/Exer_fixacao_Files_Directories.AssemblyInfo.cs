@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exer_fixacao_Files_Directories")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3529fce52c1bd5d2e6db34e8ff8991fc93b8365")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exer_fixacao_Files_Directories")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exer_fixacao_Files_Directories")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

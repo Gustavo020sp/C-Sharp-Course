@@ -49,6 +49,7 @@ namespace Interfaces_Part_1
 				Console.WriteLine("--------------------------------");
 				Console.Write("Do you wish to make another rent service? ");
 				response = Console.ReadLine();
+
 			} while (response == "Y");
 		}
 	}
