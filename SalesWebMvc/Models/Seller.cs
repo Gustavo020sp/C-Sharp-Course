@@ -6,15 +6,20 @@
         public string? Name { get; set; } 
         public DateTime BirthDate { get; set; }
         public double BaseSalary{ get; set; }
-        public ICollection<Department>? Department { get; set; }
-        public ICollection<SalesRecord> SalesRecord { get; set; }    
+        public Department? Department { get; set; }
+        public ICollection<SalesRecord> SalesRecord { get; set; } = new List<SalesRecord>();
 
-        public Seller(int id, string? name, DateTime birthDate, double baseSalary)
+        public Seller()
+        {
+        }
+
+        public Seller(int id, string? name, DateTime birthDate, double baseSalary, Department department)
         {
             Id = id;
             Name = name;
             BirthDate = birthDate;
             BaseSalary = baseSalary;
+            Department = department;
         }
 
         public void addSales(SalesRecord sr)
@@ -28,10 +33,9 @@
 
 
         //pensar sobre como desenvolver
-        //public double totalSales(DateTime initial, DateTime final)
-        //{
-
-        //    SalesRecord.Where(x => x.Amount)
-        //}
+        public double TotalSales(DateTime initial, DateTime final)
+        {
+            return SalesRecord.Where(sr => sr.Date >= initial && sr.Date <= final).Sum(sr => sr.Amount);
+        }
     }
 }
