@@ -4,9 +4,9 @@ namespace SalesWebMvc.Data
 {
     public class SeedingService
     {
-        private readonly SalesWebMvcContext? Context;
+        private readonly SalesWebMvcContext Context;
 
-        public SeedingService(SalesWebMvcContext? _context)
+        public SeedingService(SalesWebMvcContext _context)
         {
             Context = _context;
         }

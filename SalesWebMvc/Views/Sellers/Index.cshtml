@@ -6,22 +6,28 @@
 
 <h2>@ViewData["Title"]</h2>
 
-<table class="table table-stripped table-hover"
+
+<a class="text-primary" asp-action="Create">Create New</a><br /><br />
+
+<table class="table table-active table-hover">
 	<thead>
 		<tr>
-			<th class="bg-primary">
+			<th class="bg-primary text-dark">
 				@Html.DisplayNameFor(model => model.Name)
 			</th>
-			<th class="bg-primary">
+			<th class="bg-primary text-dark">
 				@Html.DisplayNameFor(model => model.Email)
 			</th>
-			<th class="bg-primary">
+			<th class="bg-primary text-dark">
 				@Html.DisplayNameFor(model => model.BirthDate)
 			</th>
-			<th class="bg-primary">
+			<th class="bg-primary text-dark">
 				@Html.DisplayNameFor(model => model.BaseSalary)
 			</th>
-			<th class="bg-primary"></th>
+			<th class="bg-primary text-dark">
+				@Html.DisplayNameFor(model => model.Department)
+			</th>
+			<th class="bg-primary text-dark"></th>
 		</tr>
 	</thead>
 	<tbody>
@@ -41,11 +47,14 @@
 					@Html.DisplayFor(model => item.BaseSalary)
 				</td>
 				<td>
-						<a asp-action="Edit" asp-route-id="@item.Id">Edit |</a>
-						<a asp-action="Details" asp-route-id="@item.Id">Details |</a>
-						<a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+					@Html.DisplayFor(model => item.Department)
+				</td>
+				<td>
+					<a class="text-primary" asp-action="Edit" asp-route-id="@item.Id">Edit |</a>
+					<a class="text-primary" asp-action="Details" asp-route-id="@item.Id">Details |</a>
+					<a class="text-primary" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
 				</td>
 			</tr>
-		}
-	</tbody>
+		}		
+	</tbody> 
 </table>
