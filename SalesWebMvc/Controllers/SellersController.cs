@@ -28,6 +28,7 @@ namespace SalesWebMvc.Controllers
 
 		//POST action Sellers/Create // ao clicar em "create" o método vai ser chamado como POST
 		[HttpPost]
+		[AutoValidateAntiforgeryToken]
 		public IActionResult Create(Seller seller)
 		{
 			_sellerservice.Insert(seller);
