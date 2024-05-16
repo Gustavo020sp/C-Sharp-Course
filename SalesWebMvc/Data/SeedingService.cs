@@ -30,11 +30,11 @@ namespace SalesWebMvc.Data
             Department d4 = new Department { Id = 4, Name = "Clothes" };
 
             Seller s1 = new Seller { Name = "John Cena", Email = "john@gmail.com", BirthDate = new DateTime(1995 / 10 / 15), BaseSalary = 5000, Department = d1 };
-            Seller s2 = new Seller { Name = "Maria Green", Email = "maria@gmail.com", BirthDate = new DateTime(1990 / 05 / 10), BaseSalary = 5500, Department = d2,  };
-            Seller s3 = new Seller { Name = "Elto John", Email = "elto@gmail.com",  BirthDate = new DateTime(2000 / 10 / 03), BaseSalary = 8900, Department = d3,  };
-            Seller s4 = new Seller { Name = "Josh Blue", Email = "josh@gmail.com", BirthDate = new DateTime(2003 / 03 / 06), BaseSalary = 10200, Department = d4,  };
-            Seller s5 = new Seller { Name = "Milena White", Email = "milena@gmail.com",  BirthDate = new DateTime(2003 / 06 / 06), BaseSalary = 15200, Department = d4,  };
-            Seller s6 = new Seller { Name = "Gustavo White", Email = "gustavo@gmail.com", BirthDate = new DateTime(1995 / 10 / 13), BaseSalary = 15200, Department = d4,  };
+            Seller s2 = new Seller { Name = "Maria Green", Email = "maria@gmail.com", BirthDate = new DateTime(1990 / 05 / 10), BaseSalary = 5500, Department = d3 };
+            Seller s3 = new Seller { Name = "Elto John", Email = "elto@gmail.com",  BirthDate = new DateTime(2000 / 10 / 03), BaseSalary = 8900, Department = d4 };
+            Seller s4 = new Seller { Name = "Josh Blue", Email = "josh@gmail.com", BirthDate = new DateTime(2003 / 03 / 06), BaseSalary = 10200, Department = d4 };
+            Seller s5 = new Seller { Name = "Milena White", Email = "milena@gmail.com",  BirthDate = new DateTime(2003 / 06 / 06), BaseSalary = 15200, Department = d2 };
+            Seller s6 = new Seller { Name = "Gustavo White", Email = "gustavo@gmail.com", BirthDate = new DateTime(1995 / 10 / 13), BaseSalary = 15200, Department = d2 };
 
             // SalesRecord 1
             SalesRecord sr1 = new SalesRecord { Id = 1, Date = new DateTime(2024, 04, 01), Amount = 3000.0, Salestatus = Models.Enums.SaleStatus.Billed, Seller = s1 };
