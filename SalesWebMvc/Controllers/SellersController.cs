@@ -9,10 +9,12 @@ namespace SalesWebMvc.Controllers
 	public class SellersController : Controller
 	{
 		private readonly SellerService _sellerservice;
+		private readonly DepartmentService _departmentService;
 
-		public SellersController(SellerService sellerservice)
+		public SellersController(SellerService sellerservice, DepartmentService departmentService)
 		{
 			_sellerservice = sellerservice;
+			_departmentService = departmentService;
 		}
 
 		public IActionResult Index()
@@ -23,7 +25,9 @@ namespace SalesWebMvc.Controllers
 		//GET action Sellers/Create // retorna a tela para criar um novo user
 		public IActionResult Create()
 		{
-			return View();
+			var departments = _departmentService.FindAll();
+			var viewmodel = new SellerFormViewModel { Departments = departments };
+			return View(viewmodel);
 		}
 
 		//POST action Sellers/Create // ao clicar em "create" o método vai ser chamado como POST

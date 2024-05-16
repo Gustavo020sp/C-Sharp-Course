@@ -17,21 +17,23 @@ namespace SalesWebMvc
 			builder.Services.AddControllersWithViews();
 			builder.Services.AddScoped<SeedingService>();
 			builder.Services.AddScoped<SellerService>();
-
+			builder.Services.AddScoped<DepartmentService>();
 
 			var app = builder.Build();
 
-			//unico metodo que funcionou -- sem implementar no Startup.cs
-			SeedDatabase();
-			void SeedDatabase()
-			{
-				using (var scope = app.Services.CreateScope())
-				{
+			//unico metodo que funcionou -- sem implementar no Startup.cs]
+			
 
-					var dbInitializer = scope.ServiceProvider.GetRequiredService<SeedingService>();
-					dbInitializer.Seed(app);
-				}
-			}
+			//SeedDatabase();
+			//void SeedDatabase()
+			//{
+			//	using (var scope = app.Services.CreateScope())
+			//	{
+
+			//		var dbInitializer = scope.ServiceProvider.GetRequiredService<SeedingService>();
+			//		dbInitializer.Seed(app);
+			//	}
+			//}
 
 			// Configure the HTTP request pipeline.
 			if (!app.Environment.IsDevelopment())
