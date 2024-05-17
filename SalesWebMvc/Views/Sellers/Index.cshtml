@@ -47,7 +47,7 @@
 					@Html.DisplayFor(model => item.BaseSalary)
 				</td>
 				<td>
-					@Html.DisplayFor(model => item.DepartmentId)
+					@Html.DisplayFor(model => item.Department.Name)
 				</td>
 				<td>
 					<a class="text-primary" asp-action="Edit" asp-route-id="@item.Id">Edit |</a>

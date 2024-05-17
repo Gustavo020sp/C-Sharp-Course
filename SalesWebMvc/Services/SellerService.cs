@@ -17,7 +17,7 @@ namespace SalesWebMvc.Services
 
 		public List<Seller> FindAll()
 		{			
-			return _context.Seller.ToList();
+			return _context.Seller.Include(obj => obj.Department).ToList();
 		}
 		public void Insert(Seller obj)
 		{
