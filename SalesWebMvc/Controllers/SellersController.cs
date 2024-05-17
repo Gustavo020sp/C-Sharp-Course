@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using NuGet.Protocol.Plugins;
 using SalesWebMvc.Models;
 using SalesWebMvc.Services;
 using System.Drawing.Text;
@@ -40,12 +41,19 @@ namespace SalesWebMvc.Controllers
 			return RedirectToAction("Index");
 		}
 
-
 		// GET: Sellers/Delete
 		public IActionResult Delete(int? id)
 		{
 			var obj = _sellerservice.FindById(id.Value);
 			return View(obj);
+		}
+
+		// POST: Sellers/Delete
+		[HttpPost]
+		public IActionResult Delete(Seller seller)
+		{
+			_sellerservice.Remove(seller);
+			return RedirectToAction("Index");
 		}
 	}
 }
