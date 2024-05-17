@@ -50,10 +50,18 @@ namespace SalesWebMvc.Controllers
 
 		// POST: Sellers/Delete
 		[HttpPost]
+		[AutoValidateAntiforgeryToken]
 		public IActionResult Delete(Seller seller)
 		{
 			_sellerservice.Remove(seller);
 			return RedirectToAction("Index");
+		}
+
+		// GET: Sellers/Details
+		public IActionResult Details(int? id)
+		{
+			var obj = _sellerservice.FindById(id.Value);
+			return View(obj);
 		}
 	}
 }
