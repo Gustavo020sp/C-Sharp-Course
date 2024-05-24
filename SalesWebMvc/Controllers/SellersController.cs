@@ -5,6 +5,7 @@ using SalesWebMvc.Models;
 using SalesWebMvc.Services;
 using System.Drawing.Text;
 using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace SalesWebMvc.Controllers
 {
@@ -63,5 +64,24 @@ namespace SalesWebMvc.Controllers
 			var obj = _sellerservice.FindById(id.Value);
 			return View(obj);
 		}
+
+		// GET: Sellers/Edit
+		public IActionResult Edit(int? id)
+		{
+            if (id == null)
+            {
+                return RedirectToAction(nameof(Error), new { message = "Id not provided" });
+            }
+
+            var obj = _sellerservice.FindById(id.Value);
+            if (obj == null)
+            {
+                return RedirectToAction(nameof(Error), new { message = "Id not found" });
+            }
+
+            List<Department> departments = _departmentService.FindAll();
+            SellerFormViewModel viewModel = new SellerFormViewModel { seller = obj, Departments = departments };
+            return View(viewModel);
+        }
 	}
 }

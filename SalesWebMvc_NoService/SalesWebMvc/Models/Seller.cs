@@ -5,8 +5,12 @@ namespace SalesWebMvc.Models
 	public class Seller
 	{
 		public int Id { get; set; }
+
+		[Required(ErrorMessage = "{0} required")]
 		public string? Name { get; set; }
 
+
+		[EmailAddress(ErrorMessage = "Enter a valid {0}")]
 		public string? Email { get; set; }
 
 		[DisplayFormat(DataFormatString = "{0:dd/MM/yyyy}")]

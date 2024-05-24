@@ -1,0 +1,97 @@
+﻿@model IEnumerable<SalesWebMvc.Models.SalesRecord>
+
+@{
+	ViewData["Title"] = "Index";
+}
+
+<h1>Sales Records</h1>
+
+<p>
+	<a class="text-primary" asp-action="Create">Create Sale Record</a>
+</p>
+
+<br />
+
+@*BELOW: THE SIMPLE SEARCH*@
+
+<form class="form-horizontal bg-dark" asp-action="SimpleSearch">
+	<fieldset>
+		<legend class="bg-primary text-dark">Simple Search</legend>
+		<div class="form-group row">
+			<label for="minDate" class="col-lg-1 col-form-label">Min Date</label>
+			<div class="col-lg-2">
+				<input type="date" name="minDate" class="form-control" style="width: 150px;" required>
+			</div>
+			<label for="maxDate" class="col-lg-1 col-form-label">Max Date</label>
+			<div class="col-lg-2">
+				<input type="date" name="maxDate" class="form-control" style="width: 150px;">
+			</div>
+		</div>
+	</fieldset>
+	<div class="form-group">
+		<input type="submit" value="Search" class="btn btn-primary text-dark" />
+	</div>
+</form>
+
+<br />
+
+@*BELOW: THE GROUPING SEARCH*@
+
+<form class="form-horizontal bg-dark" asp-action="GroupingSearch">
+	<fieldset>
+		<legend class="bg-primary text-dark">Grouping Search</legend>
+		<div class="form-group row">
+			<label for="minDate" class="col-lg-1 col-form-label">Min Date</label>
+			<div class="col-lg-2">
+				<input type="date" name="minDate" class="form-control" style="width: 150px;" required>
+			</div>
+			<label for="maxDate" class="col-lg-1 col-form-label">Max Date</label>
+			<div class="col-lg-2">
+				<input type="date" name="maxDate" class="form-control" style="width: 150px;" />
+			</div>
+		</div>
+	</fieldset>
+	<div class="form-group">
+		<input type="submit" value="Search" class="btn btn-primary text-dark" />
+	</div>
+</form>
+
+<br />
+
+@* <table class="table table-hover">
+	<thead>
+		<tr>
+			<th class="bg-primary">
+				@Html.DisplayNameFor(model => model.Date)
+			</th>
+			<th class="bg-primary">
+				@Html.DisplayNameFor(model => model.Amount)
+			</th>
+			<th class="bg-primary">
+				@Html.DisplayNameFor(model => model.Salestatus)
+			</th>
+			<th class="bg-primary"></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => item.Date)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Amount)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Salestatus)
+				</td>
+				<td>
+					<a class="text-primary" asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+					<a class="text-primary" asp-action="Details" asp-route-id="@item.Id">Details</a> |
+					<a class="text-primary" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table> *@

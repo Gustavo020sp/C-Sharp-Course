@@ -37,5 +37,11 @@ namespace SalesWebMvc.Services
 		{
 			return _context.Seller.Include(obj => obj.Department).FirstOrDefault(obj => obj.Id == id);
 		}
-	}
+
+        public void Update(Seller obj)
+        {
+            _context.Update(obj);
+            _context.SaveChanges();
+        }
+    }
 }
